@@ -1,0 +1,10 @@
+.bundle/
+.sass-cache/
+.DS_Store
+.yardoc/*
+*.swp
+*.tmproj
+log/*.log
+log/*.pid
+tmp/**/*
+tmp/*
